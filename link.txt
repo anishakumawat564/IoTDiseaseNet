@@ -1,0 +1,4 @@
+Dataset1 : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv
+Dataset2 : https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset
+Dataset3 : https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+Dataset4 : https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
